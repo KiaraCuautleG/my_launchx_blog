@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Kiara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://kiaracuautleg.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kiaracuautleg.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi aprendizaje en Launch X</title>
+      <link>https://kiaracuautleg.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiaracuautleg.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>En esta travesia de Launch X he aprendido sobre varias tecnologías, todas muy interesantes y con características que las hacen muy entretenidas. Por ejemplo al inicio comenzamos con los fundamentos de python, pude percatarme que el lenguaje tiene una sintaxis muy amena, así como en los distintos ambitos que se puede implementar. En cuanto a la sección de Frontend realice varias katas que se me hicieron muy entretenidas, lo suficiente para poder implementar los conocimientos que se adquirieron desde HTML, CSS3, JavaScript, Vue Js.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
       <link>https://kiaracuautleg.github.io/my_launchx_blog/posts/intro/</link>
