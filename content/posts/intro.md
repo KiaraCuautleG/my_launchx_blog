@@ -5,9 +5,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 ¡Hola, este es mi primer post! C: 
 Para mi la cultura del desarrollo del software se basa en: 
-Respeto hacia los integrantes del equipo
-Confianza en uno mismo, así como en el equipo
-Determinación 
-Iniciativa por parte de uno
-Autodidacta 
+--Respeto hacia los integrantes del equipo
+--Confianza en uno mismo, así como en el equipo
+--Determinación 
+--Iniciativa por parte de uno
+--Autodidacta 
 
