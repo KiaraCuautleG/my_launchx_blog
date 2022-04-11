@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy una estudiante de la ingeniería en informática, del Instituto Politécnico Nacional
+> Actualmente tengo 22 años. 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Tengo el interés por el aprendizaje en el desarrollo web, mi meta es convertirme en programadora full stack. 
+Soy una persona proactiva, autodidacta, que le gusta el trabajo en equipo, aprender de las demás personas y de caracter tranquilo. 
+Me gusta involucrarme en proyecto de desarrollo de software donde pueda adquirir conocimiento alguno. 
+En cuanto a otro tipo de intereses me gustan mucho los gatos, los perros, ir al cine, salir con mis amigos, salir a caminar. 
 
